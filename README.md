@@ -1,4 +1,4 @@
-# cpp-bank-management-system
+# cpp-Bank-management-system
 Maya Bank is a virtual banking system that allows users to open accounts, deposit and withdraw money, display account information, and update their PIN. This system is created using C++ programming language.
 
 # Features
